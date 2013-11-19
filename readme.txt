@@ -21,7 +21,7 @@ Here is a example of a text link: [ninja_forms_modal id=2 image_link"http://your
 
 Now when anyone click that link your Ninja Forms will open in a very nice modal window. Coming soon we will be adding style definitions for the modal window to the Ninja Forms Layout & Styles Extension.
 
-Ninja Forms Modal uses jQuery Modal which is licensed under the MIT license [MIT License](http://opensource.org/licenses/MIT)
+Ninja Forms Modal uses jQuery Modal which is licensed under the [MIT License](http://opensource.org/licenses/MIT)
 
 == Installation ==
 

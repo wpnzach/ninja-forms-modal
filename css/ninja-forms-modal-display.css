@@ -9,6 +9,10 @@
     filter: alpha(opacity=50);
 }*/
 
+.ninja-forms-form-wrap {
+    overflow: auto;
+}
+
 .nf-modal {
     background: rgba( 0,0,0,0.3);
 /*    background: #fff;*/
@@ -19,6 +23,7 @@
     border-radius: 12px;
     box-shadow: 0 0 10px #000;
     z-index: 9999 !important;
+    overflow: auto;
 }
 
 .nf-modal-content {
